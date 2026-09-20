@@ -6,3 +6,4 @@ enter your hwid
 {d77cac8e-b1f9-11f1-bb96-806e6f6e6963}-7CC8B8DF
 {bf3a552f-b585-11ef-94be-806e6f6e6963}-F8DA8412
 {8283db6e-aa1f-11f1-8d18-806e6f6e6963}-BE0C8DCD
+{8d4cf8cc-fa7e-11ef-94bf-806e6f6e6963}-AECA4692
